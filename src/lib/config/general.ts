@@ -56,7 +56,7 @@ export const head: HeadConfig = {}
 export const header: HeaderConfig = {
   nav: [
     {
-      text: 'Get Started',
+      text: 'Profil',
       link: '/hello-world'
     },
     {
