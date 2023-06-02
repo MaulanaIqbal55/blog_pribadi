@@ -17,7 +17,7 @@ Artikel ini akan menjelaskan bagaimana cara membuat sebuah web app untuk Interne
 - React (Front End component).
 - MongoDB (Database Component).
 - ARIMA (Machine Learning Component).
-- \+ Kalibrasi ADC ESP32.
+-  Kalibrasi ADC ESP32.
 
 ## **Pernyataan Masalah**
 ---
