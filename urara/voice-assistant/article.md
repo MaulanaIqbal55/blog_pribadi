@@ -1,6 +1,6 @@
 ---
 title: 'Voice Asisstant'
-image: '/voice-assistant/article.webp'
+image: '/voice-assistant/thumbnail.jpg'
 created: 2023-04-08
 updated: 2021-12-12
 tags:
