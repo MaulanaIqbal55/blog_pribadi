@@ -35,7 +35,7 @@ Referensi untuk [semantic similarity](https://towardsdatascience.com/deep-learni
 
 
 
-|![](va@support_bahasa_indonesia.png)| 
+|![](va@support_bahasa_indonesia.PNG)| 
 |:--:|
 |<b>Gambar 2</b>. Arsitektur AI Support Bahasa Indonesia
 
