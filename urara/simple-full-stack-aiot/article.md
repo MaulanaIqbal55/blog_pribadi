@@ -1,6 +1,6 @@
 ---
 title: 'Simple Full Stack AIoT'
-image: '/full-stuck-aiot/aiot@thumbnail.jpg'
+image: '/simple-full-stack-aiot/aiot@thumbnail.jpg'
 created: 2023-04-08
 updated: 2021-12-12
 tags:
